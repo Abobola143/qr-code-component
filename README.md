@@ -52,5 +52,4 @@ I still want to try my hands on the CSS properties of flexbox and grid
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/abobola143)
+- Twitter - [@Abobola143](https://www.twitter.com/abobola143)
