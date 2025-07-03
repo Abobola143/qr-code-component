@@ -1,0 +1,43 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+  font-family: "Outfit", Cambria, Cochin, Georgia, Times, "Times New Roman",
+    serif;
+  box-sizing: border-box;
+}
+.container {
+  margin: 8% auto 25px auto;
+  width: 300px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+  padding: 10px 0;
+  border-style: border-box;
+  /* border: 10px solid black; */
+}
+
+.container img {
+  height: 275px;
+  width: 275px;
+  border-radius: 10px;
+}
+
+.writeUp {
+  padding: 0px 20px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.writeUp h2 {
+  color: hsl(218, 44%, 22%);
+}
+.writeUp p {
+  color: hsl(216, 15%, 48%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
